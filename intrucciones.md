@@ -40,7 +40,9 @@
 
   - productList: Cargará la lista de productos con una maquetación visual en bootstrap.
 
-  
+  ### Tercera Tarea
+
+  - Crear la vista de detalle pintando los datos de cada producto, podeis usar la misma card 
 
 
     
